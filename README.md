@@ -1,4 +1,4 @@
-# PH-soil-networks-2019
+## PH-soil-networks-2019
 Analyses of plant-herbivore ecological networks from serpentine and non-serpentine soils. Per-species abundance and H' analyses; empirical networks, subsampled networks, and null models
 
 # Raw Data
@@ -6,7 +6,9 @@ Analyses of plant-herbivore ecological networks from serpentine and non-serpenti
 plants.csv
 soil.csv
 
-# Randomization outputs: subsampling code takes a long time to run. These are the outputs used in MS.  
+# Randomization outputs
+subsampling code takes a long time to run. These are the outputs used in MS.  
+
 emp_q&q_max.csv
 - These are the empirical Q values for each network, and the normalized Q values. In this case, q.max was gotten from 100 different "modularized" versions of the web (where "modularization" again means randomly assigning each species & all its interactions to a single host plant
 
