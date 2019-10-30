@@ -1,8 +1,13 @@
 # PH-soil-networks-2019
-Analyses of plant-herbivore ecological networks from serpentine and non-serpentine soils. Per-species abundance and H' analyses; empirical networks, subsampled networks, and null models; all figures and analyses
+Analyses of plant-herbivore ecological networks from serpentine and non-serpentine soils. Per-species abundance and H' analyses; empirical networks, subsampled networks, and null models
 
 ### Data
 2014-2015_network.csv
+plants.csv
+soil.csv
+
+### Randomization outputs
+## Subsampling code takes a long time to run. These are the outputs used in MS.  
 
 ### Script name followed by contents
 
