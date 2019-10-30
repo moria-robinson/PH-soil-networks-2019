@@ -7,7 +7,7 @@ plants.csv
 soil.csv
 
 ### Randomization outputs
-## Subsampling code takes a long time to run. These are the outputs used in MS.  
+# Subsampling code takes a long time to run. These are the outputs used in MS.  
 
 ### Script name followed by contents
 
