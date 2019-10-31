@@ -1,10 +1,11 @@
 # PH-soil-networks-2019
 Analyses of plant-herbivore ecological networks from serpentine and non-serpentine soils. Per-species abundance and H' analyses; plant resistance & interaction strength; empirical networks / subsampled and resampled networks / 'null' networks
 
-## Raw Data
+## Data
 - 2014-2015_network.csv
 - plants.csv
 - soil.csv
+- plant.traits_RI.csv
 
 ## Randomization outputs
 subsampling code takes a long time to run. These are the outputs used in MS.  
@@ -35,3 +36,13 @@ NormalizedQ_from.subsampling.csv
 4. Bipartite networks.R
       - Figure 5
       - Figure S5
+      
+5. Modularity_empirical.rarefied.R
+      - Table S8
+      
+6. Modularity_figures.R
+      - Figure 7
+      
+7. Null models.R
+      - Figure 6
+      - Table S9
