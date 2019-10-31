@@ -8,7 +8,7 @@ Analyses of plant-herbivore ecological networks from serpentine and non-serpenti
 - plant.traits_RI.csv
 
 ## Randomization outputs
-subsampling code takes a long time to run. These are the outputs used in MS. Script (6) describes each file.
+Resampling / calculating modularity takes a long time to run. These are the outputs from script (5) used in MS. Script (6) describes each file.
 
 - emp_q&q_max.csv
 - Q_from.subsampling.csv
