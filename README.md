@@ -2,9 +2,9 @@
 Analyses of plant-herbivore ecological networks from serpentine and non-serpentine soils. Per-species abundance and H' analyses; empirical networks, subsampled networks, and null models
 
 ## Raw Data
-2014-2015_network.csv
-plants.csv
-soil.csv
+- 2014-2015_network.csv
+- plants.csv
+- soil.csv
 
 ## Randomization outputs
 subsampling code takes a long time to run. These are the outputs used in MS.  
