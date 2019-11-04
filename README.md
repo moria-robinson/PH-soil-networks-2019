@@ -17,11 +17,11 @@ Resampling / calculating modularity takes a long time to run. These are the outp
 ## Script name followed by contents
 
 1. Abundance of generalists & specialists across soils.R
-      - Figure 3
-      - Figure S5
+      - Figure 2A
+      - Table S5
 
 2. H' of generalists across soils.R
-      - Figure 4
+      - Figure 2B
       - Figure S3 & S4
       - Table S6 & S7
       
@@ -29,19 +29,19 @@ Resampling / calculating modularity takes a long time to run. These are the outp
       - Table S4
       
 4. Bipartite networks.R
-      - Figure 5
+      - Figure 3
       - Figure S5
       
 5. Modularity_empirical.rarefied.R
       - Table S8
       
 6. Modularity_figures.R
-      - Figure 7
+      - Figure S6
       
 7. Null models.R
-      - Figure 6
+      - Figure S7
       - Table S9
 
 8. Plant RI & Generalist IS.R
-      - Figure S6
+      - Figure S8
       - Table S10
